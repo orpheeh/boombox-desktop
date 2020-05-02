@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="boom-box:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="547bd2ff-8060-439b-b701-13baad5540b6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bJYpkX9bAwGBRoWoH9KyLurBZm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Neon.ttf" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BoomBox" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BoomBox" />
+      <module name="boom-box" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BoomBox" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="547bd2ff-8060-439b-b701-13baad5540b6" name="Default Changelist" comment="" />
+      <created>1588351850940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588351850940</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588422747759">
+      <screen x="0" y="27" width="1366" height="702" />
+    </state>
+    <state x="141" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.702@0.27.1366.702" timestamp="1588422747759" />
+    <state x="491" y="89" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1588425058480">
+      <screen x="0" y="27" width="1366" height="702" />
+    </state>
+    <state x="491" y="89" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/0.27.1366.702@0.27.1366.702" timestamp="1588425058480" />
+    <state x="411" y="164" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588459695476">
+      <screen x="0" y="27" width="1366" height="702" />
+    </state>
+    <state x="411" y="164" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1366.702@0.27.1366.702" timestamp="1588459695476" />
+    <state x="416" y="126" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588458426854">
+      <screen x="0" y="27" width="1366" height="702" />
+    </state>
+    <state x="416" y="126" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.702@0.27.1366.702" timestamp="1588458426854" />
+    <state x="461" y="136" width="424" height="484" key="FileChooserDialogImpl" timestamp="1588460137801">
+      <screen x="0" y="27" width="1366" height="702" />
+    </state>
+    <state x="461" y="136" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.702@0.27.1366.702" timestamp="1588460137801" />
+    <state width="1320" height="163" key="GridCell.Tab.0.bottom" timestamp="1588459593229">
+      <screen x="0" y="27" width="1366" height="702" />
+    </state>
+    <state width="1320" height="163" key="GridCell.Tab.0.bottom/0.27.1366.702@0.27.1366.702" timestamp="1588459593229" />
+    <state width="1320" height="163" key="GridCell.Tab.0.center" timestamp="1588459593228">
+      <screen x="0" y="27" width="1366" height="702" />
+    </state>
+    <state width="1320" height="163" key="GridCell.Tab.0.center/0.27.1366.702@0.27.1366.702" timestamp="1588459593228" />
+    <state width="1320" height="163" key="GridCell.Tab.0.left" timestamp="1588459593227">
+      <screen x="0" y="27" width="1366" height="702" />
+    </state>
+    <state width="1320" height="163" key="GridCell.Tab.0.left/0.27.1366.702@0.27.1366.702" timestamp="1588459593227" />
+    <state width="1320" height="163" key="GridCell.Tab.0.right" timestamp="1588459593228">
+      <screen x="0" y="27" width="1366" height="702" />
+    </state>
+    <state width="1320" height="163" key="GridCell.Tab.0.right/0.27.1366.702@0.27.1366.702" timestamp="1588459593228" />
+    <state x="166" y="27" width="1024" height="702" key="SettingsEditor" timestamp="1588460144665">
+      <screen x="0" y="27" width="1366" height="702" />
+    </state>
+    <state x="166" y="27" width="1024" height="702" key="SettingsEditor/0.27.1366.702@0.27.1366.702" timestamp="1588460144665" />
+    <state x="339" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1588441942585">
+      <screen x="0" y="27" width="1366" height="702" />
+    </state>
+    <state x="339" y="204" key="com.intellij.ide.util.TipDialog/0.27.1366.702@0.27.1366.702" timestamp="1588441942585" />
+    <state x="428" y="27" width="500" height="702" key="refactoring.ChangeSignatureDialog" timestamp="1588425067504">
+      <screen x="0" y="27" width="1366" height="702" />
+    </state>
+    <state x="428" y="27" width="500" height="702" key="refactoring.ChangeSignatureDialog/0.27.1366.702@0.27.1366.702" timestamp="1588425067504" />
+  </component>
+</project>

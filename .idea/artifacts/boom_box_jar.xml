@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="boom-box:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/boom_box_jar</output-path>
+    <root id="archive" name="boom-box.jar">
+      <element id="module-output" name="boom-box" />
+      <element id="file-copy" path="$PROJECT_DIR$/Bittermilk.ttf" />
+      <element id="file-copy" path="$PROJECT_DIR$/Neon.ttf" />
+    </root>
+  </artifact>
+</component>
